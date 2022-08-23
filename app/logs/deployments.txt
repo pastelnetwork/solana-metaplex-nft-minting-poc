@@ -1,0 +1,13 @@
+wallet public key: Ez4NtijUCJDg47aqJo6nDwx4pe3ccP4qpYtF9r9EVnTY
+WARNING: The "arweave" storage option will be going away soon. Please migrate to arweave-bundle or arweave-sol for mainnet.
+
+Beginning the upload for 2 (img+json) pairs
+started at: 1661197315955
+initializing candy machine
+initialized config for a candy machine with publickey: EtBJpf4TGcYLx5dVDAjAW3SfGDYnAd59VGD9iFef7yJm
+Uploading Size 2 { mediaExt: '.png', index: '0' }
+Processing asset: 0
+Processing asset: 1
+Writing indices 0-1
+Done. Successful = true.
+ended at: 2022-08-22T19:42:31.881Z. time taken: 00:00:35

@@ -1,0 +1,39 @@
+{
+  "name": "Disney #0001",
+  "symbol": "DISNFT",
+  "description": "Collection of 10 Disney characters on the blockchain. This is the number 1/10.",
+  "seller_fee_basis_points": 500,
+  "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "animal type",
+      "value": "mouse"
+    },
+    {
+      "trait_type": "disposition",
+      "value": "happy"
+    },
+    {
+      "trait_type": "skills",
+      "value": "sailing"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "2xoNoQyVgpCP1MeWrRrWzgyRCjNLfVUUWSWjgEZaiZkJ",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "collection": {
+    "name": "Disney Characters",
+    "family": "Disney Characters"
+  }
+}
